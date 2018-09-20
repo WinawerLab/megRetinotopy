@@ -2,6 +2,8 @@
 
 (Last update by EK: Sep 20, 2018)
 
+This repository is an archived version of the MEG Retinotopy code, how Barrie Klein left it. Before Eline Kupers and Akhil Edadan added significant changes.
+
 ## DESCRIPTION
 This project is an MEG retinotopy project, as a collaboration between 
 NYU (Noah Benson, Eline Kupers and Jon Winawer) and the Amsterdam Spinoza Center 
